@@ -23,7 +23,7 @@ const openAiUrl = "https://api.openai.com/v1/completions";
 const imageGenerationURL = "https://api.openai.com/v1/images/generations";
 const headers = {
   "Content-Type": "application/json",
-  Authorization: `Bearer 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`
+  Authorization: `Bearer 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`
 };
 
 async function getCompletions() {
